@@ -1,0 +1,6 @@
+gigSavvy
+=======
+
+A java swing (threaded) app that creates random customers and vendors, and puts them into a innoDB mySQL database. The program simulates transactions between customers and merchants and can be viewed in real time. It will only allow a customer to make a transaction when the customer has sufficient funds.
+
+A table of customers and vendors can be viewed from the app as well.
